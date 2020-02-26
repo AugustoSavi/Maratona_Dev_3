@@ -11,4 +11,4 @@ Tecnologias usadas:
 * Nunjucks
 * Postgres
 
-![](gif.gif)
+![](Gif.gif)
